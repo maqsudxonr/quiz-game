@@ -1,0 +1,126 @@
+@media(max-width: 1065px){
+    .test__content-title{
+        margin-left: -150px;
+    }
+    .quiz-container{
+        margin-left: 240px;
+    }
+}
+
+
+@media(max-width: 915px){
+    .test__content-title{
+        margin-left: -300px;
+    }
+    .quiz-container{
+        margin-left: 150px;
+    }
+}
+
+
+@media(max-width: 826px){
+    .test__content-title{
+        margin-left: -400px;
+        font-size: 40px;
+    }
+    .quiz-container{
+        margin-left: 100px;
+    }
+}
+
+@media(max-width: 767px){
+    .test__content-title{
+        margin-left: -450px;
+        font-size: 35px;
+    }
+    .quiz-container{
+        margin-left: 120px;
+        width: 500px;
+    }
+}
+
+@media(max-width: 676px){
+    .test__content-title{
+        margin-left: -550px;
+        font-size: 35px;
+    }
+    .quiz-container{
+        margin-left: 80px;
+        width: 500px;
+    }
+}
+
+@media(max-width: 676px){
+    .test__content-title{
+        margin-left: -650px;
+        font-size: 35px;
+    }
+    .quiz-container{
+        margin-left: 80px;
+        width: 400px;
+    }
+    .answer__score{
+        margin-left: 271px;
+        margin-top: 72px;
+    }
+}
+
+@media(max-width: 524px){
+    .test__content-title{
+        margin-left: -650px;
+        font-size: 30px;
+    }
+    .quiz-container{
+        margin-left: 80px;
+        width: 370px;
+    }
+    .answer__score{
+        margin-left: 271px;
+        margin-top: 72px;
+    }
+}
+
+@media(max-width: 492px){
+    .test__content-title{
+        margin-left: -700px;
+        font-size: 30px;
+    }
+    .quiz-container{
+        margin-left: 60px;
+        width: 370px;
+    }
+    .answer__score{
+        margin-left: 271px;
+        margin-top: 72px;
+    }
+}
+
+@media(max-width: 492px){
+    .test__content-title{
+        margin-left: -750px;
+        font-size: 25px;
+    }
+    .quiz-container{
+        margin-left: 40px;
+        width: 370px;
+    }
+    .answer__score{
+        margin-left: 271px;
+        margin-top: 72px;
+    }
+}
+
+@media(max-width: 492px){
+    .test__content-title{
+        margin-left: -800px;
+        font-size: 25px;
+    }
+    .quiz-container{
+        margin-left: 20px;
+        width: 370px;
+    }
+    .answer__score{
+        margin-left: 271px;
+        margin-top: 72px;
+    }
+}
